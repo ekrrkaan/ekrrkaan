@@ -5,16 +5,16 @@
 
 # 📁 My Projects
 
-1. [🧠 How Knowledgeable Are You](https://github.com/kullaniciAdin/HowKnowledgeableAreYou)  
+1. [🧠 How Knowledgeable Are You](https://github.com/ekrrkaan/HowKnowledgeableAreYou)  
    A complicated trivia quiz game to test your general knowledge.
 
-2. [🎮 Word Game Case Study](https://github.com/kullaniciAdin/Word-Game-Case-Study-)  
+2. [🎮 Word Game Case Study](https://github.com/ekrrkaan/Word-Game-Case-Study-)  
    A word puzzle game developed using PixiJS, built from scratch within 3 days as part of a company interview case study.
 
-3. [💣 Bomberman 2D](https://github.com/kullaniciAdin/Bomberman-2D)  
+3. [💣 Bomberman 2D](https://github.com/ekrrkaan/Bomberman-2D)  
    A 2D version of the classic Bomberman arcade game.
 
-4. [🐦 Jump Jump Birdy](https://github.com/kullaniciAdin/Jump-Jump-Birdy)  
+4. [🐦 Jump Jump Birdy](https://github.com/ekrrkaan/Jump-Jump-Birdy)  
    A jumping game inspired by Flappy Bird, with simple mechanics and fun gameplay.
 
 
